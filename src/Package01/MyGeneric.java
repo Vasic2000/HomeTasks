@@ -1,4 +1,4 @@
-package Package1;
+package Package01;
 
 public class MyGeneric {
     String name;

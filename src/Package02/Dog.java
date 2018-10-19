@@ -1,4 +1,4 @@
-package Package2;
+package Package02;
 
 public class Dog {
     Person owner;

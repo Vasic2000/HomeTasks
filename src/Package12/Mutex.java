@@ -1,4 +1,7 @@
 package Package12;
 
-public class Simafor {
+public class Mutex {
+    public static void main(String[] args) {
+
+    }
 }

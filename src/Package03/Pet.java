@@ -1,4 +1,4 @@
-package Package3;
+package Package03;
 
 public class Pet {
 }
